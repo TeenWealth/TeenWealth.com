@@ -1,1 +1,1 @@
-# TeenWealth.com
+# TeenWealth.github.io
