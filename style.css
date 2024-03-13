@@ -102,7 +102,7 @@ section p {
 /* SECTION IMAGES */
 
 section#home {
-    background: url(https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537_1280.jpg
+    background: url(https://fiverr-res.cloudinary.com/image/upload/q_auto,f_auto/v1/attachments/generic_asset/asset/562898f3c2eaf82b59c2b00a2428ab86-1577120240798/Cards%20Hard%20Shadow.png
     )no-repeat center center/cover;
 }
 
@@ -113,10 +113,5 @@ section#about {
 
 section#shop {
     background: url(https://cdn.pixabay.com/photo/2018/01/24/18/05/background-3104413__340.jpg
-    ) no-repeat center center/cover;
-}
-
-section#contactorder {
-    background: url(https://media.istockphoto.com/id/937030386/photo/abstract-defocused-vivid-background-dreamy-sunset-colors.jpg?b=1&s=170667a&w=0&k=20&c=KncTXYwJgV9rtLyBFHjhz0yOA-Qq7SrLplV_7G-Zpus=
     ) no-repeat center center/cover;
 }
